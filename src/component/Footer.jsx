@@ -77,18 +77,18 @@ const Footer = () => {
 
      {/* Country section */}
      <div className="flex justify-center gap-4 mt-10">
-        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./assets/img1.jpg" alt="" />
-        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./assets/img2.jpg" alt="" />
-        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./assets/img3.jpg" alt="" />
-        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./assets/img4.jpg" alt="" />
-        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./assets/img5.jpg" alt="" />
-        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./assets/img6.jpg" alt="" />
-        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./assets/img7.jpg" alt="" />
-        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./assets/img8.jpg" alt="" />
-        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./assets/img9.jpg" alt="" />
-        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./assets/img10.jpg" alt="" />
-        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./assets/img11.jpg" alt="" />
-        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./assets/img12.jpg" alt="" />
+        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./src/assets/img1.jpg" alt="" />
+        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./src/assets/img2.jpg" alt="" />
+        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./src/assets/img3.jpg" alt="" />
+        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./src/assets/img4.jpg" alt="" />
+        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./src/assets/img5.jpg" alt="" />
+        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./src/assets/img6.jpg" alt="" />
+        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./src/assets/img7.jpg" alt="" />
+        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./src/assets/img8.jpg" alt="" />
+        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./src/assets/img9.jpg" alt="" />
+        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./src/assets/img10.jpg" alt="" />
+        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./src/assets/img11.jpg" alt="" />
+        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./src/assets/img12.jpg" alt="" />
      </div>
       {/* Bottom section */}
       <div className="mt-5 pt-3 text-center text-sm">
