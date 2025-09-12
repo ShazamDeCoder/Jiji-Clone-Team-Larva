@@ -3,7 +3,7 @@ import React from "react";
 const Footer = () => {
   return (
     <>
-      <img src="./assets/footertop.png" className="w-full bg-[#ebf2f7]" alt="" />
+      <img src="./src/assets/footertop.png" className="w-full bg-[#ebf2f7]" alt="" />
     <footer className="bg-[#00b53f] text-white py-10 px-6">
       
       <div className="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-5 gap-8">
@@ -77,18 +77,18 @@ const Footer = () => {
 
      {/* Country section */}
      <div className="flex justify-center gap-4 mt-10">
-        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./assets/img1.jpg" alt="" />
-        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./assets/img2.jpg" alt="" />
-        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./assets/img3.jpg" alt="" />
-        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./assets/img4.jpg" alt="" />
-        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./assets/img5.jpg" alt="" />
-        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./assets/img6.jpg" alt="" />
-        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./assets/img7.jpg" alt="" />
-        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./assets/img8.jpg" alt="" />
-        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./assets/img9.jpg" alt="" />
-        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./assets/img10.jpg" alt="" />
-        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./assets/img11.jpg" alt="" />
-        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./assets/img12.jpg" alt="" />
+        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./src/assets/img1.jpg" alt="" />
+        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./src/assets/img2.jpg" alt="" />
+        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./src/assets/img3.jpg" alt="" />
+        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./src/assets/img4.jpg" alt="" />
+        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./src/assets/img5.jpg" alt="" />
+        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./src/assets/img6.jpg" alt="" />
+        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./src/assets/img7.jpg" alt="" />
+        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./src/assets/img8.jpg" alt="" />
+        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./src/assets/img9.jpg" alt="" />
+        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./src/assets/img10.jpg" alt="" />
+        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./src/assets/img11.jpg" alt="" />
+        <img className="w-[30px] h-[30px] rounded-full border-2 object-cover cursor-pointer" src="./src/assets/img12.jpg" alt="" />
      </div>
       {/* Bottom section */}
       <div className="mt-5 pt-3 text-center text-sm">
