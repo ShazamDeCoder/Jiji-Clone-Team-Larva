@@ -1,13 +1,13 @@
 import React from 'react'
-import Hero from './component/Hero'
 import Footer from './component/Footer'
 import Nav from './component/Nav'
+import Topbar from './component/Topbar'
 
 const App = () => {
   return (
     <>
     <Nav/>
-      <Hero/>
+    <Topbar />
       <Footer/>
     </>
   )
